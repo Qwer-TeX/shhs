@@ -1,6 +1,6 @@
 CC=gcc
 CFLAGS=-Wall -g
-OBJ=shhs.o hash_md5.o hash_sha1.o hash_sha256.o hash_sha512.o
+OBJ=shhs.o hash_md5.o hash_sha1.o hash_sha256.o hash_sha512.o hash_blake2.o
 LIBS=-lssl -lcrypto
 
 all: shhs
