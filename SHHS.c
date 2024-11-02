@@ -14,6 +14,7 @@ int main(int argc, char *argv[]) {
     calculate_sha1(filename);
     calculate_sha256(filename);
     calculate_sha512(filename);
+    calculate_blake2(filename);
 
     return EXIT_SUCCESS;
 }
