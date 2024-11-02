@@ -9,6 +9,7 @@ This project provides a command-line utility for calculating various cryptograph
   - SHA-1
   - SHA-256
   - SHA-512
+  - BLAKE2
 
 ## Requirements
 
