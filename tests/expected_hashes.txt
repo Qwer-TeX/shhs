@@ -1,0 +1,8 @@
+# expected_hashes.txt
+# Format: <Hash Type> <Expected Hash Value>
+
+MD5 65a8e27d8879283831b664bd8b7f0ad4   # Hash for "Hello, World!"
+SHA-1 2fd4e1c67a2c62ea8ab8ae8b11d0f6000c6e1f6d  # Hash for "Hello, World!"
+SHA-256 a5f34d610976eb19f28538125c1da91404638c3f7ed21889ec0d7e6a2d0fa1 # Hash for "Hello, World!"
+SHA-512 2c74fd17edafd80e8447b0d46741ee243b7e7b2b0f3f153b49b8e50a4c4bbdfd7dcfbfda19f16cddfb87dfec8f0b04b6a460b063745c09194b1853972e64a24  # Hash for "Hello, World!"
+BLAKE2b a2c6f7a1ec62254e2c3d5e4bc54a7de8c401fbc41f5c32edba1a993d8c441e776bafddf59ed0a6e74c77b91e891ac3043c48c4d5dc8e034ee4933bafddf9 # Hash for "Hello, World!"
